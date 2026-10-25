@@ -6,7 +6,7 @@ I'm a Backend Software Engineer based in Cairo, Egypt, focused on building relia
 
 ## 🚀 Currently
 
-Building production-style ASP.NET Core APIs with a focus on:
+Building scalable and maintainable ASP.NET Core Applications with a focus on:
 
 - Clean Architecture
 - Domain-Driven Design
