@@ -25,7 +25,6 @@ An inventory management API built with ASP.NET Core and Clean Architecture.
 - Entity Relationship Diagram
 - Architecture Decision Records
 - Domain-Driven Design principles
-- Production-oriented API structure
 
 ### 💳 [Online Wallet](https://github.com/AhmedMostafa79/OnlineWallet)
 
@@ -44,7 +43,6 @@ A hotel management system built using **C++17** and **MySQL**.
 - Layered architecture
 - MySQL database integration
 - Object-oriented design
-- Modular system structure
 
 ## 🧰 Tech Stack
 
