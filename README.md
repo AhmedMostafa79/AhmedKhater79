@@ -69,7 +69,7 @@ A hotel management system built using **C++17** and **MySQL**.
 
 - Solved **2,500+ problems**
 - Participated in **4 ECPC contests**
-- Achieved **1st place twice** in ACU contests
+- Achieved **1st place twice** in ACU contests(under the supervision of ECPC)
 
 ## 📫 Connect With Me
 
